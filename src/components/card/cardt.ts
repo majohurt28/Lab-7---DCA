@@ -1,5 +1,6 @@
 
 import {postAtt} from "../post/card";
+
 export enum AttributeCard {
     "photo"= "photo",
     "comment"= "comment",
